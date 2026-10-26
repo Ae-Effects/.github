@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/After-effects222-cc_logo-1280x720.jpg" alt="Adobe After Effects Logo"/>
+  <img src="https://i.ytimg.com/vi/9DBplBIQAGU/maxresdefault.jpg" alt="Adobe After Effects Logo"/>
 </div>
 
 <div align="center">
